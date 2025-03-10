@@ -7,5 +7,3 @@ With 25Pomodoro you can:
 - Sync your own Spotify music with your work/study sessions 🎶
 - Access your personal dashboard for productivity insights 🤫
 - Get analytics on your past productivity sessions 📈
-
-> Coming soon 
